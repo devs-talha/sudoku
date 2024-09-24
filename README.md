@@ -5,3 +5,4 @@ This Python project generates and solves Sudoku puzzles. It includes functionali
 ## Features
 - Randomized Sudoku puzzle generation
 - Automatic puzzle solving
+- Customizable difficulty levels
